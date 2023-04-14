@@ -1,7 +1,7 @@
 # it-learn-shell
 ### Learning Shell Script
-1.Shell Topics
+Shell Topics
+-------------------
+1.Printing 
 
-2.Printing 
-
-3.Looping 
+2.Looping 
