@@ -1,1 +1,1 @@
-yum listed installed
+yum list installed
